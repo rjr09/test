@@ -1,3 +1,2 @@
 This is a sample file.
 Added the next line.
-Added a third line.
